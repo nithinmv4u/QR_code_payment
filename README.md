@@ -61,7 +61,9 @@ The frontend server will start running at http://localhost:8080.
 
 2. **Add Merchant and Buyer Dummy Data from admin to start**
 
-2. **Access the frontend interface at http://localhost:8080 to use the application as a merchant or buyer.**
+3. **Access the frontend interface at http://localhost:8080 to use the application as a merchant or buyer.**
+
+4. **Access merchant page at http://localhost:8080/merchant and the buyer page will be available from QR code**
 
 ## API Documentation
 
