@@ -72,3 +72,6 @@ python manage.py spectacular --color --file schema.yml
 ```
 
 ### UI API documentation: http://localhost:8000/api/schema/swagger-ui/
+
+### DB Schema (ERD)
+DB Schema is included in repository as 'ERD_diagram.png'
